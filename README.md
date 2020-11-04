@@ -10,7 +10,9 @@
 g++ main.cpp ElevatorIOPanel.cpp ElevatorLogic.cpp -o main -lncurses
 ```
 
-The program is written with help of *ncurses*-Libray. It helps to design a text user interface in terminal.
+The program is written with help of *ncurses*-Libray. It helps to design a text user interface in terminal.\
+*ncurses*-Library is included in Linux-distribution.\
+Using ncurses on Windows-Platforms you have to install PDCurses-Library.\
 
 ---
 
