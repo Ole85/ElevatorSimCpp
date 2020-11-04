@@ -1,6 +1,6 @@
 # Elevator Simulator C++
 
-![Alt text](elevator.gif?raw=true "Optional Title")
+![Alt text](elevator2.gif?raw=true "Optional Title")
 
 ---
 
